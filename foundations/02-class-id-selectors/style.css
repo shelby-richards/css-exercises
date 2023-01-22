@@ -1,0 +1,18 @@
+.oddstyle {
+    background-color: rgb(255, 213, 220);
+    font-family:'Verdana', 'DejaVu Sans', sans-serif;
+}
+#blue {
+    color:rgb(86, 86, 238);
+    font-size: 36px;
+}
+
+.size {
+    font-size: 24px;
+}
+
+#last {
+    background-color: rgb(130, 166, 130);
+    font-size: 24px;
+    font-weight:700;
+}
