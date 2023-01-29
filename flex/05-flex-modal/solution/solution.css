@@ -57,6 +57,8 @@ button.continue {
   background: royalblue;
   border: 1px solid royalblue;
   color: white;
+  display: flex;
+  padding-right: 16px;
 }
 
 button.cancel {
